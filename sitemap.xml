@@ -3,7 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://collinholmquist.github.io/tags/api/</loc>
+  </url>
+  
+  <url>
     <loc>https://collinholmquist.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://collinholmquist.github.io/categories/express/</loc>
   </url>
   
   <url>
@@ -11,7 +19,27 @@
   </url>
   
   <url>
+    <loc>https://collinholmquist.github.io/tags/http/</loc>
+  </url>
+  
+  <url>
+    <loc>https://collinholmquist.github.io/categories/nodejs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://collinholmquist.github.io/posts/</loc>
+  </url>
+  
+  <url>
     <loc>https://collinholmquist.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://collinholmquist.github.io/tags/requests/</loc>
+  </url>
+  
+  <url>
+    <loc>https://collinholmquist.github.io/tags/response/</loc>
   </url>
   
   <url>
@@ -24,6 +52,14 @@
   
   <url>
     <loc>https://collinholmquist.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://collinholmquist.github.io/posts/getvpost/</loc>
+  </url>
+  
+  <url>
+    <loc>https://collinholmquist.github.io/categories/web-development/</loc>
   </url>
   
 </urlset>

@@ -5,5 +5,41 @@
     <link>https://collinholmquist.github.io/tags/</link>
     <description>Recent content in Tags on Holmquist</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://collinholmquist.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>api</title>
+      <link>https://collinholmquist.github.io/tags/api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://collinholmquist.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>http</title>
+      <link>https://collinholmquist.github.io/tags/http/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://collinholmquist.github.io/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>requests</title>
+      <link>https://collinholmquist.github.io/tags/requests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://collinholmquist.github.io/tags/requests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>response</title>
+      <link>https://collinholmquist.github.io/tags/response/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://collinholmquist.github.io/tags/response/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
