@@ -6,13 +6,13 @@
     <description>Recent content in express on Holmquist</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://collinholmquist.github.io/categories/express/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>this is my GET vs. POST blog post</title>
+      <title>my GET vs. POST blog post</title>
       <link>https://collinholmquist.github.io/posts/getvpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://collinholmquist.github.io/posts/getvpost/</guid>
-      <description>GET vs. POST and REST APIs Over the past month, I have worked on building web applications using node and express.
- confusion over http verbs and when to use each. Especially when learning to create my own REST API. I wanted to get the my database entries in ascending order but thought that a get request would work. Afterall, I wanted to get information from my database. I also was able to use a get request to return all of the values in my database but a get request wasn&amp;rsquo;t working to get them in ascending order.</description>
+      <description>GET vs. POST and REST APIs Over the past month, I have worked on building web applications using node and express. You can check out the repo here :coffee:
+My goal has to been to learn more about full-stack development and deepen my understanding on APIs, databases, and Node.js. I skirted around with tutorials and small projects that involve (usually) front-end but have never bothered to connect any back-end with it.</description>
     </item>
     
   </channel>
